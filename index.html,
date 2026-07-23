@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>সৌমিক হেয়ার কাটিং</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+    <h1>✂️ সৌমিক হেয়ার কাটিং</h1>
+    <p>স্টাইলিশ হেয়ার কাট • শেভ • ফেসিয়াল • প্রিমিয়াম সার্ভিস</p>
+
+    <a class="btn" href="tel:01910947438">📞 এখনই কল করুন</a>
+</header>
+
+<section class="about">
+    <h2>আমাদের সম্পর্কে</h2>
+    <p>
+        আধুনিক স্টাইলে চুল কাটা, শেভ, ফেসিয়াল এবং গ্রুমিং সার্ভিস
+        প্রদান করা হয়।
+    </p>
+</section>
+
+<section class="services">
+
+<h2>আমাদের সার্ভিস</h2>
+
+<div class="card">
+<h3>✂️ Hair Cut</h3>
+<p>স্টাইলিশ হেয়ার কাট</p>
+</div>
+
+<div class="card">
+<h3>🧔 Beard Trim</h3>
+<p>দাড়ি ট্রিম ও স্টাইলিং</p>
+</div>
+
+<div class="card">
+<h3>💆 Facial</h3>
+<p>ফেসিয়াল ও স্কিন কেয়ার</p>
+</div>
+
+<div class="card">
+<h3>🎨 Hair Color</h3>
+<p>হেয়ার কালার</p>
+</div>
+
+</section>
+
+<section class="price">
+
+<h2>প্রাইস লিস্ট</h2>
+
+<ul>
+<li>Hair Cut - 100৳</li>
+<li>Beard Trim - 50৳</li>
+<li>Facial - 300৳</li>
+<li>Hair Color - 500৳</li>
+</ul>
+
+</section>
+
+<section class="contact">
+
+<h2>যোগাযোগ</h2>
+
+<p>📍 বাদুড়িয়া বাজার, ডুমুরিয়া, খুলনা</p>
+
+<p>📞 01910947438</p>
+
+<a class="btn whatsapp" href="https://wa.me/8801910947438">
+WhatsApp করুন
+</a>
+
+</section>
+
+<footer>
+
+<p>© 2026 সৌমিক হেয়ার কাটিং | All Rights Reserved</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
