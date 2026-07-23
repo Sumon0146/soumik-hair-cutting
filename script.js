@@ -74,3 +74,12 @@ modeBtn.addEventListener("click", () => {
         modeBtn.innerHTML = "🌙";
     }
 });
+function toggleServices() {
+    const list = document.getElementById("serviceList");
+
+    if (list.style.display === "none" || list.style.display === "") {
+        list.style.display = "grid";
+    } else {
+        list.style.display = "none";
+    }
+}
